@@ -1,4 +1,4 @@
-# LNCT Campus Navigation 
+# LNCT Campus Navigation   [Live Link](https://lnct-campus-navigation.onrender.com/)
 
 Interactive campus navigation system built using Graph Theory and Dijkstra’s Algorithm.  
 The system models campus locations as a weighted graph and computes the shortest path between checkpoints with visual static map route highlighting.
