@@ -8,3 +8,7 @@ __pycache__/
 .idea/
 logs/
 venv/
+Notes/
+.gradio/
+.pytest_cache/
+*.log
