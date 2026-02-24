@@ -20,18 +20,6 @@ The system models campus locations as a weighted graph and computes the shortest
 - Matplotlib
 - Gradio
 
-### Project Structure 
-
-src/
-├── data/ # nodes and edges
-├── graph/ # graph builder + shortest path algorithm
-├── visualization/ # plotting graph 
-└── ui/ # gradio web interface
-README.md
-app.py
-requirements.txt
-.gitignore
-
 ### How It Works
 
 1. Campus checkpoints are modeled as graph nodes.
